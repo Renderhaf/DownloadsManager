@@ -1,6 +1,6 @@
 {   
     "quitShortcut" : "ctrl+shift+k",
-    "workingFolder" : "C:\\Users\\Dvir\\Downloads",
+    "workingFolder" : "C:\\Users\\USER\\Downloads",
     "Default" : "Other",
     "Extensions" : {
         "Documents" : ["pdf", "doc", "docx", "ppt", "xlsx", "ppsx", "pptx", "txt", "csv"],
